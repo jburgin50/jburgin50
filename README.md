@@ -15,7 +15,7 @@
 
 - <b>Network Security Hardening</b>
 
--<b>Vulnerability Assessments</b>
+- <b>Vulnerability Assessments</b>
 
 <h2>📺 YouTube Videos</h2>
 
