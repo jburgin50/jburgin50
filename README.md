@@ -11,11 +11,11 @@
 
 - <b>BASH</b>
 
-- <b>Honeypot</b>
+- <b>Building a Honeypot</b>
 
-- <b>Home Lab</b>
+- <b>Network Security Hardening</b>
 
-- <b>Penetration Testing</b>
+-<b>Vulnerability Assessments</b>
 
 <h2>📺 YouTube Videos</h2>
 
