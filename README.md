@@ -1,19 +1,14 @@
-<h1>Hi, I'm Jared! <br/> <a href="https://www.linkedin.com/in/jared-burgin-a3a8252a4/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@VirtuallyInept">YouTuber</a></h1>
-
+<h1>Hi, I'm Jared! <br/> <a href="https://www.linkedin.com/in/jared-burgin-a3a8252a4/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-- <b>PowerShell</b>
+- <b>Easy Network Defense Checkup</b>
  
-- <b>Python</b>
-
-- <b>SQL</b>
-
-- <b>BASH</b>
-
-- <b>Building a Honeypot</b>
+- <b>Building and Deploying Honeypots/Honeyfiles</b>
 
 - <b>Network Security Hardening</b>
+
+- <b>Configuring Firewalls, IPS/IDS, and VLANs on a SoHo Network</b>
 
 - <b>Vulnerability Assessments</b>
 
@@ -26,7 +21,7 @@
 [<img align="left" alt="Jared Burgin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/@VirtuallyInept
+[youtube]: https://www.youtube.com/@Psu3d0
 [linkedin]: https://www.linkedin.com/in/jared-burgin-a3a8252a4/
 
 <!--
