@@ -6,7 +6,7 @@
  
 - <b>Analyzing Global Threats With a Raspberrry Pi</b>
 
-- <b>Network Security Hardening</b>
+- <b>Turning an Old Laptop Into a Home Server</b>
 
 - <b>Configuring Firewalls, IPS/IDS, and VLANs on a Network</b>
 
