@@ -1,14 +1,14 @@
-<h1>Hi, I'm Jared! <br/> <a href="https://www.linkedin.com/in/jared-burgin-a3a8252a4/">Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>Hi, I'm Jared! <br/> <a href="https://www.linkedin.com/in/jared-burgin-a3a8252a4/">Network Technician</a>
+<h2>👨‍💻 Some Cool Projects I'm Working On:</h2>
 
 
-- <b>Easy Network Defense Checkup</b>
+- <b>Secure Your Home Network!</b>
  
-- <b>Building and Deploying Honeypots/Honeyfiles</b>
+- <b>Analyzing Global Threats With a Raspberrry Pi</b>
 
 - <b>Network Security Hardening</b>
 
-- <b>Configuring Firewalls, IPS/IDS, and VLANs on a SoHo Network</b>
+- <b>Configuring Firewalls, IPS/IDS, and VLANs on a Network</b>
 
 - <b>Vulnerability Assessments</b>
 
@@ -21,8 +21,8 @@
 [<img align="left" alt="Jared Burgin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/@Psu3d0
-[linkedin]: https://www.linkedin.com/in/jared-burgin-a3a8252a4/
+[youtube]: https://www.youtube.com/
+[linkedin]: https://www.linkedin.com/in/
 
 <!--
 **jburgin50/jburgin50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
